@@ -1,11 +1,10 @@
 # Specific generated files
-prod_files.txt
-uat_files.txt
+.DS_Store
+week-02/solutions.ipynb
 .dodsrc
 *.dodsrc
 *.csv
-cloud_links_with_times.csv
-on_prem_links_with_times.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
