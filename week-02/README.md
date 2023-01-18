@@ -14,4 +14,4 @@ You will be expected to follow along and 'live script' the examples in your own 
 ## Homework Assignment
 *Due: January 24th, 5pm*
 
-Create a GitHub repository to begin storing your weekly homework assignments. If you want to keep your repository private, please do so and add me as a collaborator (briannapagan). Complete exercises 2.1 - 2.7 outlined [here](https://github.com/briannapagan/geospatial-data-analytics-spring-2023/blob/main/week-02/week-02-homework-exercises.ipynb) in your own notebook. Upload this notebook to your GitHub repository for the class. Paste the link to the notebook in your Brightspace submission. 
+Create a GitHub repository to begin storing your weekly homework assignments. If you want to keep your repository private, please do so and add me as a collaborator (briannapagan). Complete exercises **2.1 - 2.4** outlined [here](https://github.com/briannapagan/geospatial-data-analytics-spring-2023/blob/main/week-02/week-02-homework-exercises.ipynb) in your own notebook. Upload this notebook to your GitHub repository for the class. Paste the link to the notebook in your Brightspace submission. 
