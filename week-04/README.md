@@ -1,4 +1,4 @@
-# Week 03: Python Basics
+# Week 04: Geographic concepts and map anatomy
 ## Getting Started
 During class, navigate to the following [link](http://geospatial-data-analytics.briannapagan.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbriannapagan%2Fgeospatial-data-analytics-spring-2023&branch=main&urlpath=lab%2Ftree%2Fgeospatial-data-analytics-spring-2023%2Fweek-04) to access notebooks where we will be learning some core concepts.
 
