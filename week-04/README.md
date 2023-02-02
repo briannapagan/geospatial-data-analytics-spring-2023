@@ -13,4 +13,4 @@ You will be expected to follow along and 'live script' the examples in your own 
 ## Homework Assignment
 *Due: February 7th, 5pm*
 
-Homework will be posted after the lecture based on what we cover. 
+Complete exercise **3.3** from last week outlined [here](https://github.com/briannapagan/geospatial-data-analytics-spring-2023/blob/main/week-02/week-03-homework-exercises.ipynb) AND exercises **4.1-4.2** outlined [here](https://github.com/briannapagan/geospatial-data-analytics-spring-2023/blob/main/week-03/week-04-homework-exercises.ipynb) in your own notebook. Upload this notebook to your GitHub repository for the class. Paste the link to the notebook in your Brightspace submission. 
