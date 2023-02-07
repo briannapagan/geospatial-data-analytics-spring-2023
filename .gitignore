@@ -1,6 +1,7 @@
 # Specific generated files
 .DS_Store
 week-02/*solutions.ipynb
+week-05/*solutions.ipynb		
 .dodsrc
 *.dodsrc
 *.csv
