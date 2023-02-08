@@ -11,4 +11,8 @@ You will be expected to follow along and 'live script' the examples in your own 
 To be posted the day following class depending how much content we cover.
 
 ## Quiz 01
-First quiz will be next week! Review key geospatial concepts/definitions. Practice loading and manipulating both tabular non-geospatial data and geospatial data! 
+First quiz will be next week! Review key geospatial concepts/definitions. Practice loading and manipulating both tabular non-geospatial data and geospatial data. 
+
+Concepts Review:
+- https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/s06-map-anatomy.html
+- https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/s11-geospatial-analysis-i-vector-o.html
