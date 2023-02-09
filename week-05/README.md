@@ -8,7 +8,7 @@ You will be expected to follow along and 'live script' the examples in your own 
 ## Homework Assignment
 *Due: February 14th, 5pm*
 
-To be posted the day following class depending how much content we cover.
+Complete week 05 homework exercises 5.1-5.3 outlined [here](https://github.com/briannapagan/geospatial-data-analytics-spring-2023/blob/main/week-05/week-05-homework-exercises.ipynb)
 
 ## Quiz 01
 First quiz will be next week! Review key geospatial concepts/definitions. Practice loading and manipulating both tabular non-geospatial data and geospatial data. 
