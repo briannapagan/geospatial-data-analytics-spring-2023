@@ -6,4 +6,4 @@ During class, navigate to the following [link](http://geospatial-data-analytics.
 You will be expected to follow along and 'live script' the examples in your own notebook. 
 
 ## Homework Assignment
-*TBD*
+Complete week 07 homework exercises outlined [here](https://github.com/briannapagan/geospatial-data-analytics-spring-2023/blob/main/week-07/week-07-homework-exercises.ipynb) due March 7th 5PM. 
