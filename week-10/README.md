@@ -12,3 +12,7 @@ https://autogis-site.readthedocs.io/en/2021/lessons/L5/share-on-github.html
 
 ## Homework Assignment
 Submit a drawing of your vision for the final project. You can do this on paper or leverage websites like Canva (https://www.canva.com/). 
+
+Complete week 10 homework exercises outlined [here](https://github.com/briannapagan/geospatial-data-analytics-spring-2023/blob/main/week-10/week-10-homework-exercises.ipynb) due March 28th 5PM.  
+
+**Optional**: Some people I have specifically suggested should check Quiz 02/03 feedback and resubmit corrections for extra points. This will be open and available for submission until March 28th 5PM. 
