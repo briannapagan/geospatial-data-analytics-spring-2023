@@ -11,6 +11,22 @@ You will be expected to follow along and 'live script' the examples in your own 
 ## Final Exam
 Your final is scheduled for next week April 4th. Details to be discussed in class. All content except week-09 will be covered. 
 
+**Study Guide**
+- Working with time series data. Loading, cleaning, subsetting, using aggregation functions.
+- Geospatial conceptual basics. Understanding different coordinate reference systems, datums etc. Vector versus raster data. Data file types. 
+- Working with vector data. Functionalities with geopandas. 
+- Reprojecting spatial data.
+- Clipping and joining spatial data (either vector or raster).
+- Dissolving vector data.
+- Single and multi-band raster analysis.
+- Reclassifying raster data. 
+- Nearest neighbor analysis. 
+- Zonal statistics.
+- Spatial regression.
+- Understanding various raster data sources (NAIP, Landsat, Sentinel).
+- Basic visualizations of vector/raster data.
+- More advanced interactive visualizations.
+
 ## Important Dates
 - April 11th: APIs and further customizations for interactive maps. 
 
