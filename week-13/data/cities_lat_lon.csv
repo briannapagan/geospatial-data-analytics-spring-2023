@@ -1,11 +1,1 @@
-"city,html_file,Latitude,Longitude"
-"Boston, MA,fig0.html,42.3611,-71.0388"
-"Seattle, WA,fig1.html,47.608,-122.3352"
-"Austin, TX,fig2.html,30.2666,-97.7333"
-"New York, NY,fig3.html,40.7306,-73.9352"
-"San Francisco, CA,fig4.html,37.7739,-122.4313"
-"Raleigh, NC,fig5.html,35.7877,-78.6443"
-"Chicago, IL,fig6.html,41.8818,-87.6232"
-"Los Angeles, CA,fig7.html,34.0522,-118.2437"
-"Denver, CO,fig8.html,39.742,104.9915"
-"Atlanta, GA,fig9.html,33.7487,-84.3882"
+city,html_file,Latitude,Longitude"Boston, MA",fig0.html,42.3611,-71.0388"Seattle, WA",fig1.html,47.608,-122.3352"Austin, TX",fig2.html,30.2666,-97.7333"New York, NY",fig3.html,40.7306,-73.9352"San Francisco, CA",fig4.html,37.7739,-122.4313"Raleigh, NC",fig5.html,35.7877,-78.6443"Chicago, IL",fig6.html,41.8818,-87.6232"Los Angeles, CA",fig7.html,34.0522,-118.2437"Denver, CO",fig8.html,39.742,104.9915"Atlanta, GA",fig9.html,33.7487,-84.3882
