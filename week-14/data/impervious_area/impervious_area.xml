@@ -1,0 +1,762 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>U.S. Geological Survey</origin>
+        <origin>Jon Dewitz</origin>
+        <pubdate>20210604</pubdate>
+        <title>National Land Cover Database (NLCD) 2019 Impervious Surface Conterminous United States</title>
+        <geoform>remote-sensing image</geoform>
+        <serinfo>
+          <sername>None</sername>
+          <issue>None</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Sioux Falls, SD</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/P9KZCM54</onlink>
+        <onlink>https://www.mrlc.gov/data</onlink>
+        <onlink>https://www.mrlc.gov/data-services-page</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Yang, L., et al.</origin>
+            <pubdate>201812</pubdate>
+            <title>A new generation of the United States National Land Cover Database: Requirements, research priorities, design, and implementation strategies</title>
+            <edition>ISPRS Journal of Photogrammetry and Remote Sensing 146: 108-123.</edition>
+            <geoform>publication</geoform>
+            <onlink>https://doi.org/10.1016/j.isprsjprs.2018.09.006</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The U.S. Geological Survey (USGS), in partnership with several federal agencies, has developed and released five National Land Cover Database (NLCD) products over the past two decades: NLCD 1992, 2001, 2006, 2011, and 2016.  The 2016 release saw landcover created for additional years of 2003, 2008, and 2013. These products provide spatially explicit and reliable information on the Nation’s land cover and land cover change. To continue the legacy of NLCD and further establish a long-term monitoring capability for the Nation’s land resources, the USGS has designed a new generation of NLCD products named NLCD 2019. The NLCD 2019 design aims to provide innovative, consistent, and robust methodologies for production of a multi-temporal land cover and land cover change database from 2001 to 2019 at 2–3-year intervals. Comprehensive research was conducted and resulted in developed strategies for NLCD 2019: continued integration between impervious surface and all landcover products with impervious surface being directly mapped as developed classes in the landcover, a streamlined compositing process for assembling and preprocessing based on Landsat imagery and geospatial ancillary datasets; a multi-source integrated training data development and decision-tree based land cover classifications; a temporally, spectrally, and spatially integrated land cover change analysis strategy; a hierarchical theme-based post-classification and integration protocol for generating land cover and change products; a continuous fields biophysical parameters modeling method; and an automated scripted operational system for the NLCD 2019 production. The performance of the developed strategies and methods were tested in twenty composite referenced areas throughout the conterminous U.S. An overall accuracy assessment from the 2016 publication give a 91% overall landcover accuracy, with the developed classes also showing a 91% accuracy in overall developed.  Results from this study confirm the robustness of this comprehensive and highly automated procedure for NLCD 2019 operational mapping. Questions about the NLCD 2019 land cover product can be directed to the NLCD 2019 land cover mapping team at USGS EROS, Sioux Falls, SD (605) 594-6151 or mrlc@usgs.gov. See included spatial metadata for more details. </abstract>
+      <purpose>The goal of this project is to provide the Nation with complete, current and consistent public domain information on its land use and land cover.</purpose>
+      <supplinf>Corner Coordinates (center of pixel, projection meters)
+Upper Left Corner:  -2493045 meters(X),  3310005 meters(Y)
+Lower Right Corner: 2342655 meters(X),  177285 meters(Y)</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2001</begdate>
+          <enddate>2019</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Every 2-3 years</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-130.2328</westbc>
+        <eastbc>-63.6722</eastbc>
+        <northbc>52.8510</northbc>
+        <southbc>21.7423</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>NGDA Portfolio Themes</themekt>
+        <themekey>NGDA</themekey>
+        <themekey>National Geospatial Data Asset</themekey>
+        <themekey>Land Use Land Cover Theme</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>Land cover</themekey>
+        <themekey>Image processing</themekey>
+        <themekey>GIS</themekey>
+        <themekey>U.S. Geological Survey (USGS)</themekey>
+        <themekey>digital spatial data</themekey>
+      </theme>
+      <theme>
+        <themekt>U.S. Department of Commerce, 1995, (Countries, dependencies, areas of special sovereignty, and their principal administrative divisions, Federal Information Processing Standard 10-4):  Washington, D.C., National Institute of Standards and Technology</themekt>
+        <themekey>United States</themekey>
+        <themekey>U.S.</themekey>
+        <themekey>US</themekey>
+      </theme>
+      <place>
+        <placekt>Common Geographic Areas</placekt>
+        <placekey>United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntorgp>
+        <cntpos>Customer Service Representative</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>47914 252nd Street</address>
+          <city>Sioux Falls</city>
+          <state>SD</state>
+          <postal>57198-0001</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>605/594-6151</cntvoice>
+        <cntfax>605/594-6589</cntfax>
+        <cntemail>custserv@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>U.S. Geological Survey</datacred>
+    <secinfo>
+      <secsys>None</secsys>
+      <secclass>Unclassified</secclass>
+      <sechandl>N/A</sechandl>
+    </secinfo>
+    <native>Microsoft Windows 10; ESRI ArcCatalog 10.5.1, ERDAS Imagine (alternative) </native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>A formal accuracy assessment has not been conducted for NLCD 2019 Land Cover, NLCD 2019 Land Cover Change, or NLCD 2019 Impervious Surface products. A 2016 accuracy assessment publication can be found here: James Wickham, Stephen V. Stehman, Daniel G. Sorenson, Leila Gass, Jon A. Dewitz., Thematic accuracy assessment of the NLCD 2016 land cover for the conterminous United States: Remote Sensing of Environment, Volume 257, 2021, 112357, ISSN 0034-4257, https://doi.org/10.1016/j.rse.2021.112357.  </attraccr>
+      <qattracc>
+        <attraccv>Unknown</attraccv>
+        <attracce>This document and the described land cover map are considered "provisional" until a formal accuracy assessment is completed.  The U.S. Geological Survey can make no guarantee as to the accuracy or completeness of this information, and it is provided with the understanding that it is not guaranteed to be correct or complete. Conclusions drawn from this information are the responsibility of the user.</attracce>
+      </qattracc>
+    </attracc>
+    <logic>See https://www.mrlc.gov/data for the full list of products available.</logic>
+    <complete>This NLCD product is the version dated June 4, 2021.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>N/A</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>N/A</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <pubdate>20200408</pubdate>
+            <title>Landsat—Earth Observation Satellites</title>
+            <geoform>publication</geoform>
+            <othercit>https://www.usgs.gov/core-science-systems/nli/landsat/landsat-5?qt-science_support_page_related_con=0#qt-science_support_page_related_con
+</othercit>
+            <onlink>https://doi.org/10.3133/fs20153081</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1984</begdate>
+              <enddate>2013</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Landsat TM</srccitea>
+        <srccontr>Landsat Thematic Mapper (TM) </srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <origin>Jon Dewitz</origin>
+            <pubdate>201901</pubdate>
+            <title>NLCD 2016 Impervious Surface Conterminous United States</title>
+            <geoform>raster digital data</geoform>
+            <othercit>Yang, L., et al. (2018). "A new generation of the United States National Land Cover Database: Requirements, research priorities, design, and implementation strategies." ISPRS Journal of Photogrammetry and Remote Sensing 146: 108-123.
+</othercit>
+            <onlink>https://doi.org/10.5066/P96HHBIE</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2001</begdate>
+              <enddate>2016</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>DEM</srccitea>
+        <srccontr>Digital Elevation Module (DEM) </srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Julia A. Barsi</origin>
+            <origin>Brian L. Markham</origin>
+            <origin>Jeffrey S. Czapla-Myers</origin>
+            <origin>Dennis L. Helder</origin>
+            <origin>Simon J. Hook</origin>
+            <origin>John R. Schott</origin>
+            <origin>Md. Obaidul Haque</origin>
+            <pubdate>20160919</pubdate>
+            <title>Landsat-7 ETM+ radiometric calibration status</title>
+            <geoform>publication</geoform>
+            <othercit>https://www.usgs.gov/core-science-systems/nli/landsat/landsat-7?qt-science_support_page_related_con=0#qt-science_support_page_related_con
+</othercit>
+            <onlink>https://doi.org/10.1117/12.2238625</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1999</begdate>
+              <enddate>2020</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Landsat ETM+</srccitea>
+        <srccontr>Landsat Enhanced Thematic Mapper Plus (ETM+)</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <origin>Jon Dewitz</origin>
+            <pubdate>2017</pubdate>
+            <title>Statistical relative gain calculation for Landsat 8</title>
+            <geoform>raster digital data</geoform>
+            <othercit>Yang, L., et al. (2018). "A new generation of the United States National Land Cover Database: Requirements, research priorities, design, and implementation strategies." ISPRS Journal of Photogrammetry and Remote Sensing 146: 108-123.</othercit>
+            <onlink>https://doi.org/10.5066/P96HHBIE</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2001</begdate>
+              <enddate>2016</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Landsat OLI</srccitea>
+        <srccontr>Landsat Operational Land Imager (OLI)</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Julia A. Barsi</origin>
+            <origin>Brian L. Markham</origin>
+            <origin>Matthew Montanaro</origin>
+            <origin>Aaron Gerace</origin>
+            <origin>Simon Hook</origin>
+            <origin>John R. Schott</origin>
+            <origin>Nina G. Raqueno</origin>
+            <origin>Ron Morfitt</origin>
+            <pubdate>2017</pubdate>
+            <title>Landsat-8 TIRS thermal radiometric calibration status</title>
+            <geoform>publication</geoform>
+            <othercit>https://www.usgs.gov/core-science-systems/nli/landsat/landsat-8?qt-science_support_page_related_con=0#qt-science_support_page_related_con
+</othercit>
+            <onlink>https://doi.org/10.1117/12.2276045</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2013</begdate>
+              <enddate>2020</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Landsat TIRS</srccitea>
+        <srccontr>Landsat Thermal Infrared Sensor (TIRS)</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <pubdate>20200408</pubdate>
+            <title>Landsat—Earth Observation Satellites</title>
+            <geoform>publication</geoform>
+            <othercit>https://www.usgs.gov/core-science-systems/nli/landsat/landsat-5?qt-science_support_page_related_con=0#qt-science_support_page_related_con
+</othercit>
+            <onlink>https://doi.org/10.3133/fs20153081</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1984</begdate>
+              <enddate>2013</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Landsat MSS</srccitea>
+        <srccontr>Landsat Multispectral Scanner (MSS)</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <origin>Jon Dewitz</origin>
+            <pubdate>201901</pubdate>
+            <title>NLCD 2016 Land Cover Conterminous United States</title>
+            <geoform>raster digital data</geoform>
+            <othercit>Yang, L., et al. (2018). "A new generation of the United States National Land Cover Database: Requirements, research priorities, design, and implementation strategies." ISPRS Journal of Photogrammetry and Remote Sensing 146: 108-123.
+</othercit>
+            <onlink>https://doi.org/10.5066/P96HHBIE</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2001</begdate>
+              <enddate>2016</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USGS National Land Cover Database</srccitea>
+        <srccontr>United States Geological Survey (USGS) National Land Cover Database (NLCD)</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>John L. Dwyer</origin>
+            <origin>David P. Roy</origin>
+            <origin>Brian Sauer</origin>
+            <origin>Calli B. Jenkerson</origin>
+            <origin>Hankaui K. Zhang</origin>
+            <origin>Leo Lymburner</origin>
+            <pubdate>20180828</pubdate>
+            <title>Analysis Ready Data: Enabling Analysis of the Landsat Archive</title>
+            <geoform>publication</geoform>
+            <othercit>https://www.usgs.gov/core-science-systems/nli/landsat/us-landsat-analysis-ready-data?qt-science_support_page_related_con=0#qt-science_support_page_related_con
+</othercit>
+            <onlink>https://doi.org/10.3390/rs10091363</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2018</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Landsat ARD</srccitea>
+        <srccontr>Landsat Analysis Ready Data (ARD)</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Geophysical Data Center (NGDC), now part of NOAA National Centers for Environmental Information (NCEI)</origin>
+            <pubdate>2011</pubdate>
+            <title>Defense Meteorological Satellite Program (DMSP) Nighttime Lights</title>
+            <geoform>raster digital data</geoform>
+            <othercit>https://sos.noaa.gov/datasets/nighttime-lights/</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>1994</begdate>
+              <enddate>1995</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Defense Meteorological Satellite Program (DMSP)</srccitea>
+        <srccontr>The Nighttime Lights of the World data set was complied from Defense Meteorological Satellite Program (DMSP) data spanning October 1994 - March 1995.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>NASA/NOAA</origin>
+            <pubdate>2016</pubdate>
+            <title>Visible Infrared Imaging Radiometer Suite (VIIRS) Day/Night band Nighttime Lights</title>
+            <geoform>raster digital data</geoform>
+            <othercit>https://earthdata.nasa.gov/worldview/worldview-image-archive/the-day-night-band-enhanced-near-constant-contrast-of-viirs</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2016</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>observed</srccurr>
+        </srctime>
+        <srccitea>Visible Infrared Imaging Radiometer Suite (VIIRS)</srccitea>
+        <srccontr>The VIIRS Nighttime Imagery (Day/Night Band, Enhanced Near Constant Contrast) layer shows the Earth’s surface and atmosphere using a sensor designed to capture low-light emission sources, under varying illumination conditions.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Defense Meteorological Satellite Program (DMSP) Nighttime Lights and Visible Infrared Imaging Radiometer Suite (VIIRS) Day/Night band Nighttime Lights have been applied by many researchers as a way to study such topics as population density and economic activity. These two datasets are used in the generation of training data for the new NLCD 2019 Impervious Surface for 2011 and 2016, respectively. DMSP Nighttime Lights (for 2011) and VIIRS Day/Night band Nighttime Lights (for 2016) were superimposed on NLCD 2011 Impervious Surface data to exclude low density impervious areas outside urban and suburban centers, and ensure that only core urban areas were included in training data development. </procdesc>
+        <srcused>Defense Meteorological Satellite Program (DMSP)</srcused>
+        <srcused>Visible Infrared Imaging Radiometer Suite (VIIRS)</srcused>
+        <procdate>2019</procdate>
+        <srcprod>USGS National Land Cover Database</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Jon Dewitz</cntper>
+              <cntorg>U.S. Geological Survey, CORE SCIENCE SYSTEMS</cntorg>
+            </cntperp>
+            <cntpos>GEOGRAPHER</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>47914 252Nd Street</address>
+              <city>Sioux Falls</city>
+              <state>SD</state>
+              <postal>57198</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>605-594-2715</cntvoice>
+            <cntemail>dewitz@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Two training datasets, one of larger extent, one smaller to have different proportions of higher and lower relative impervious according to the extent of brighter and dimmer nighttime lighting, were assembled by imposing two separate thresholds of nighttime lights imagery onto the NLCD 2016 Impervious Surface data layer. 
+Each of the two training datasets were used separately to build regression tree models for predicting percent impervious surface from zero to 100% using Landsat imagery from each respective year as predictive variables. </procdesc>
+        <srcused>Defense Meteorological Satellite Program (DMSP)</srcused>
+        <srcused>Visible Infrared Imaging Radiometer Suite (VIIRS)</srcused>
+        <procdate>2019</procdate>
+        <srcprod>USGS National Land Cover Database</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Jon Dewitz</cntper>
+              <cntorg>U.S. Geological Survey, CORE SCIENCE SYSTEMS</cntorg>
+            </cntperp>
+            <cntpos>GEOGRAPHER</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>47914 252Nd Street</address>
+              <city>Sioux Falls</city>
+              <state>SD</state>
+              <postal>57198</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>605-594-2715</cntvoice>
+            <cntemail>dewitz@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>These two sets of regression tree models were the basis of two 2011 initial impervious surface maps.  </procdesc>
+        <srcused>Defense Meteorological Satellite Program (DMSP)</srcused>
+        <srcused>Visible Infrared Imaging Radiometer Suite (VIIRS)</srcused>
+        <procdate>2019</procdate>
+        <srcprod>USGS National Land Cover Database</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Jon Dewitz</cntper>
+              <cntorg>U.S. Geological Survey, CORE SCIENCE SYSTEMS</cntorg>
+            </cntperp>
+            <cntpos>GEOGRAPHER</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>47914 252Nd Street</address>
+              <city>Sioux Falls</city>
+              <state>SD</state>
+              <postal>57198</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>605-594-2715</cntvoice>
+            <cntemail>dewitz@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The same two training datasets were used with 2016 Landsat imagery to create two sets of regression tree models and two 2016 initial impervious surface maps.</procdesc>
+        <srcused>Defense Meteorological Satellite Program (DMSP)</srcused>
+        <srcused>Visible Infrared Imaging Radiometer Suite (VIIRS)</srcused>
+        <srcused>Landsat MSS</srcused>
+        <srcused>Landsat TM</srcused>
+        <srcused>DEM</srcused>
+        <srcused>Landsat ETM+</srcused>
+        <srcused>Landsat OLI</srcused>
+        <srcused>Landsat TIRS</srcused>
+        <srcused>Landsat ARD</srcused>
+        <procdate>2019</procdate>
+        <srcprod>USGS National Land Cover Database</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Jon Dewitz</cntper>
+              <cntorg>U.S. Geological Survey, CORE SCIENCE SYSTEMS</cntorg>
+            </cntperp>
+            <cntpos>GEOGRAPHER</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>47914 252Nd Street</address>
+              <city>Sioux Falls</city>
+              <state>SD</state>
+              <postal>57198</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>605-594-2715</cntvoice>
+            <cntemail>dewitz@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The two pairs of initial impervious surface maps - 2 each for an earlier and later image (for example, 2004 was compared to 2001,  2006 to 2004, etc. up to 2019.),  - were compared to remove false estimates caused by high reflectance in non-urban areas, as well as to retain impervious values unchanged from the earlier year. </procdesc>
+        <srcused>Defense Meteorological Satellite Program (DMSP)</srcused>
+        <srcused>Visible Infrared Imaging Radiometer Suite (VIIRS)</srcused>
+        <procdate>2019</procdate>
+        <srcprod>USGS National Land Cover Database</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Jon Dewitz</cntper>
+              <cntorg>U.S. Geological Survey, CORE SCIENCE SYSTEMS</cntorg>
+            </cntperp>
+            <cntpos>GEOGRAPHER</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>47914 252Nd Street</address>
+              <city>Sioux Falls</city>
+              <state>SD</state>
+              <postal>57198</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>605-594-2715</cntvoice>
+            <cntemail>dewitz@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>The last step is a clean-up to correct mapping errors with automated processes and some hand editing. For example, false impervious estimates in mines and barren land were removed, and developed areas with low imperviousness, such as city parks and golf courses, were added. </procdesc>
+        <srcused>Defense Meteorological Satellite Program (DMSP)</srcused>
+        <srcused>Visible Infrared Imaging Radiometer Suite (VIIRS)</srcused>
+        <procdate>2019</procdate>
+        <srcprod>USGS National Land Cover Database</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Jon Dewitz</cntper>
+              <cntorg>U.S. Geological Survey, CORE SCIENCE SYSTEMS</cntorg>
+            </cntperp>
+            <cntpos>GEOGRAPHER</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>47914 252Nd Street</address>
+              <city>Sioux Falls</city>
+              <state>SD</state>
+              <postal>57198</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>605-594-2715</cntvoice>
+            <cntemail>dewitz@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Raster</direct>
+    <rastinfo>
+      <rasttype>Grid Cell</rasttype>
+      <rowcount>104424</rowcount>
+      <colcount>161190</colcount>
+      <vrtcount>1</vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.5</stdparll>
+            <stdparll>45.5</stdparll>
+            <longcm>-96.0</longcm>
+            <latprjo>23.0</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+          <plance>row and column</plance>
+          <coordrep>
+            <absres>30.0</absres>
+            <ordres>30.0</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>WGS_1984</horizdn>
+        <ellips>WGS 84</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>NLCD Impervious Surface Attribute Table</enttypl>
+        <enttypd>Product showing the attributes for the impervious cover throughout CONUS</enttypd>
+        <enttypds>National Land Cover Database</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Value</attrlabl>
+        <attrdef>Percent Imperviousness. *while the file structure shows values in range from 0-255, the values of 0-100 are the only real populated values, in addition to a background value of 127. </attrdef>
+        <attrdefs>NLCD 2019</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>127</edomv>
+            <edomvd>Background value</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percentage</attrunit>
+            <attrmres>0.1</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Count</attrlabl>
+        <attrdef>A nominal integer value that designates the number of pixels that have each value in the file; histogram column in ERDAS Imagine raster attributes table.</attrdef>
+        <attrdefs>NLCD 2019</attrdefs>
+        <attrdomv>
+          <udom>Integer</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Red</attrlabl>
+        <attrdef>Red color code for RGB slice by value for imperviousness image display purposes.  The value is arbitrarily assigned by the display software package, unless defined by user.  Standard user defined ramp for NLCD project is start color light gray, end color red.</attrdef>
+        <attrdefs>NLCD 2019</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>255</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Green</attrlabl>
+        <attrdef>Green color code for RGB slice by value for imperviousness image display purposes.  The value is arbitrarily assigned by the display software package, unless defined by user.  Standard user defined ramp for NLCD project is start color light gray, end color red.</attrdef>
+        <attrdefs>NLCD 2019</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>255</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Blue</attrlabl>
+        <attrdef>Blue color code for RGB slice by value for imperviousness image display purposes.  The value is arbitrarily assigned by the display software package, unless defined by user.  Standard user defined ramp for NLCD project is start color light gray, end color red.</attrdef>
+        <attrdefs>NLCD 2019</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>255</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Opacity</attrlabl>
+        <attrdef>A measure of how opaque, or solid, a color is displayed in a layer.</attrdef>
+        <attrdefs>NLCD 2019</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1</rdommax>
+            <attrmres>0.01</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Impervious Surface Attributes</eaover>
+      <eadetcit>Attributes defined by USGS and ESRI.</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>GS ScienceBase</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform><digtinfo>
+          <formname>ERDAS</formname>
+          <formvern>Imagine 2018</formvern>
+          <formspec>.img</formspec>
+          <transize>1012.0</transize>
+        </digtinfo>
+        <digtopt><onlinopt><computer><networka><networkr>https://doi.org/10.5066/P9KZCM54</networkr></networka></computer></onlinopt></digtopt></digform>
+      <fees>None</fees>
+    </stdorder>
+    <techpreq>ESRI ArcMap Suite and/or Arc/Info software, and supporting operating systems.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20210611</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntorgp>
+        <cntpos>Customer Services Representative</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>47914 252nd Street</address>
+          <city>Sioux Falls</city>
+          <state>SD</state>
+          <postal>57198-0001</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>605/594-6151</cntvoice>
+        <cntfax>605/594-6589</cntfax>
+        <cntemail>custserv@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
