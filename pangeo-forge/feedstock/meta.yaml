@@ -1,0 +1,5 @@
+recipes:
+  - id: gpm-zarr
+    object: zarr_recipe:transforms
+  - id: gpm-kerchunk
+    object: kerchunk_recipe:transforms
